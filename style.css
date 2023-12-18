@@ -86,3 +86,32 @@ nav ul {
   padding-top: 60%;
   z-index: 2;
 } */
+
+.about_title {
+  color: white;
+  font-size: 3rem;
+  z-index: 2;
+  /* left: 50%;
+  top: 20%;
+  transform: translate(-50%, -25%); */
+  padding-left: 10%;
+}
+
+.about_desc {
+  color: white;
+  font-size: large;
+  padding-top: 2%;
+  z-index: 2;
+  /* transform: translate(-50%, -25%); */
+}
+
+.about {
+  align-items: center;
+  /* padding-top: 1%; */
+  z-index: 2;
+  padding-left: 15%;
+}
+
+#aboutSection {
+  background-color: black;
+}
